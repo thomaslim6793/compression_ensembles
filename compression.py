@@ -15,7 +15,7 @@ import cv2
 import numpy as np
 from PIL import Image as PIL_Image
 from io import BytesIO
-import statistics as stats
+import compression_ensembles.statistics as stats
 import transformations as trans
 
 #----------------------------------------------------------------------------------------------
